@@ -53,3 +53,13 @@ body {
 .social-info li a {
     color: #777;
 }
+
+.contact-info {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.contact-info p {
+    margin-bottom: 7px;
+    font-size: 14px;
+}
